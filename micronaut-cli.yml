@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: flyway.test
+---
+testFramework: junit
+sourceLanguage: java
